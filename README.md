@@ -91,7 +91,7 @@ These are immediately visible in your phone's File Manager, and in the Gallery o
 Anyone with access to the repository can get it running with:
 
 ```bash
-git clone https://codeberg.org/Firewall-Crusher/Camhack.git
+git clone https://github.com/UG-ALOK/Camhack.git
 ```
 ```bash
 cd Camhack
